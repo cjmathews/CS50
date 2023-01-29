@@ -1,0 +1,12 @@
+
+Problem solving - Inputs - Outputs
+```
+If (condition)
+}
+	function(argument);
+}
+
+Or if else
+
+	Test
+```
